@@ -1,0 +1,201 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Sign",
+				"SignUpForm"
+			],
+			[
+				"auto",
+				"auto_now_add"
+			],
+			[
+				"quest",
+				"question"
+			],
+			[
+				"get_",
+				"get_object_or_404"
+			],
+			[
+				"HttpResponse",
+				"HttpResponseRedirect"
+			],
+			[
+				"re",
+				"render"
+			],
+			[
+				"question",
+				"question_id"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/samir/LearningProjects/blog/blog/views.py",
+		"/home/samir/mvp/src/templates/base.html",
+		"/home/samir/mvp/src/templates/home.html",
+		"/home/samir/mvp/src/templates/navbar.html",
+		"/home/samir/mvp/src/templates/contact.html",
+		"/home/samir/mvp/src/mvp/settings.py",
+		"/home/samir/mvp/src/mvp/settings/__init__.py",
+		"/home/samir/mvp/src/mvp/settings/production.py",
+		"/home/samir/mvp/src/mvp/settings/development.py",
+		"/home/samir/mvp/src/mvp/settings/base.py",
+		"/home/samir/mvp/src/mvp/urls.py",
+		"/home/samir/mvp/src/templates/registration/registration_form.html",
+		"/home/samir/mvp/src/templates/about.html",
+		"/home/samir/mvp/src/mvp/views.py",
+		"/home/samir/mvp/src/templates/javascript.html",
+		"/home/samir/mvp/src/newsletter/views.py",
+		"/home/samir/mvp/src/mvp/head-css.html",
+		"/home/samir/mvp/src/newsletter/base.html",
+		"/home/samir/mvp/src/newsletter/forms.py",
+		"/home/samir/mvp/src/newsletter/models.py",
+		"/home/samir/mvp/src/newsletter/admin.py",
+		"/home/samir/mvp/src/newsletter/tests.py",
+		"/home/samir/mvp/src/newsletter/form.py",
+		"/home/samir/PYTHON_FIRST_PROJECT/mysite/polls/views.py",
+		"/home/samir/PYTHON_FIRST_PROJECT/mysite/mysite/urls.py",
+		"/home/samir/PYTHON_FIRST_PROJECT/mysite/mysite/settings.py",
+		"/home/samir/PYTHON_FIRST_PROJECT/mysite/templates/home.html",
+		"/home/samir/PYTHON_FIRST_PROJECT/mysite/mysite/views.py",
+		"/home/samir/PYTHON_FIRST_PROJECT/mysite/mysite/home.html",
+		"/home/samir/PYTHON_FIRST_PROJECT/mysite/polls/urls.py",
+		"/home/samir/PYTHON_FIRST_PROJECT/mysite/polls/templates/polls/index.html",
+		"/home/samir/PYTHON_FIRST_PROJECT/mysite/polls/templates/polls/detail.html",
+		"/home/samir/PYTHON_FIRST_PROJECT/mysite/polls/templates/polls/results.html",
+		"/home/samir/PYTHON_FIRST_PROJECT/mysite/templates/admin/base_site.html",
+		"/home/samir/project-workspaces/my-poll-project",
+		"/home/samir/newfile.py",
+		"/home/samir/.config/sublime-text-2/Packages/User/Plain text.sublime-settings",
+		"/home/samir/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/samir/.config/sublime-text-2/Packages/User/Distraction Free.sublime-settings",
+		"/home/samir/gfs.py",
+		"/home/samir/Documents/has"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 542.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 319.0,
+	"status_bar_visible": true
+}
