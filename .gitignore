@@ -5,3 +5,5 @@ projectenv/
 
 db.sqlite3
 .DS_Store
+
+LaunchWeb.sublime*
