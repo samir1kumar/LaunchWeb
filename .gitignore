@@ -6,4 +6,5 @@ projectenv/
 db.sqlite3
 .DS_Store
 
-LaunchWeb.sublime*
+LaunchWeb.sublime-project
+LaunchWeb.sublime-workspace
