@@ -15,6 +15,11 @@
       </div>
 
     </div> <!-- /container -->
-
+<div class="container">
+    <form action="" method="POST">{% csrf_token %}
+    {{ form.as_p }}
+    <input type="submit" value="Join" class = "btn btn-primary"/>
+    </form>
+</div> <!-- /container -->
 {% endblock %}
 

@@ -50,6 +50,8 @@ MIDDLEWARE_CLASSES = (
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
     'django.middleware.security.SecurityMiddleware',
+    #custom user middleware
+    'LaunchWeb.middleware.ReferMiddleware',
 )
 
 ROOT_URLCONF = 'LaunchWeb.urls'
