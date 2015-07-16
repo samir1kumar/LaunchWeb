@@ -3,6 +3,7 @@ from django.db import models
 # Create your models here.
 class Join(models.Model):
 	email = models.EmailField()
+	friend = models.ForeignKey('self', related_name='referal', null='True', blank='True')
 	ref_id = models.CharField(max_length = 120, unique = True, default='ABC')
 	ip_address = models.CharField(max_length=50, default='ABC')
 	timestamp = models.DateTimeField(auto_now = False, auto_now_add= True)

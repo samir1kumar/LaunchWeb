@@ -49,8 +49,6 @@ def index(request):
 	except:
 		obj = None	
 
-	print "the object is %s" %(obj.email)
-
 	form = EmailModelForm(request.POST or None)
 	if form.is_valid():
 		# new_join = form.save(commit=False)
@@ -59,9 +57,13 @@ def index(request):
 		if created:
 			new_join_old.ip_address = get_ip(request)
 			new_join_old.ref_id = get_ref_id()
+			if not obj==None:
+				new_join_old.friend=obj
+
 			new_join_old.save()
+			print Join.objects.filter(friend=obj).count()
 
 		return HttpResponseRedirect("/%s"%(new_join_old.ref_id))
-
+	
 	context = {'form': form,}
 	return render(request, 'index.html', context)
